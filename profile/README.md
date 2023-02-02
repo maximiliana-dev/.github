@@ -1,9 +1,3 @@
-# Nota sin título
-
-Archivada: No
-Creada el: February 2, 2023 10:02 AM
-Última edición: February 2, 2023 10:05 AM
-
 # 👋 ¡Hello, mundo!
 
 We are [Maximiliana](https://maximiliana.es/), the Spanish startup that has developed the world's first elderly-friendly modern smartphone. From our offices in Zaragoza, we work hard to make technology accessible, useful, and easy to use for our grandparents.
