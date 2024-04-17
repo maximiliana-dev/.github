@@ -16,7 +16,7 @@ We are [Maximiliana](https://maximiliana.es/), the Spanish startup that has deve
 
 ## 📊 Our company
 
-We are a company that is fully focused on the technology behind our product; we design and develop all of our products and code in-house because we believe it is the only way to deliver the best experience to our customers. More **than 1,000 active devices all around the world** prove us right. To make this possible, we rely on many tools we love, some of which are FOSS, such as [Flutter](https://github.com/flutter), [Firebase](https://firebase.google.com/), [Twilio](https://www.twilio.com/), [GraphQL](https://github.com/topics/graphql), [NestJS](https://github.com/nestjs), and many more.
+We are a company that is fully focused on the technology behind our product; we design and develop all of our products and code in-house because we believe it is the only way to deliver the best experience to our customers. More **than 2,000 active devices all around the world** prove us right. To make this possible, we rely on many tools we love, some of which are FOSS, such as [Flutter](https://github.com/flutter), [Firebase](https://firebase.google.com/), [Twilio](https://www.twilio.com/), [GraphQL](https://github.com/topics/graphql), [NestJS](https://github.com/nestjs), and many more.
 
 ## 👩🏼‍💻 Careers
 
